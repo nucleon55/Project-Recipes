@@ -1,0 +1,21 @@
+*{
+    background-color: blanchedalmond;
+    font-family: Arial, Verdana, Tahoma, sans-serif;
+    font-size: 30px;
+}
+h1{
+    text-align: center;
+    padding-top: 20px;
+}
+h1 a{
+    font-size: 48px;
+    text-decoration: none;
+    color: rgb(255, 136, 0);
+}
+div a{
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    padding: 10px;
+    margin: 10px;
+}
